@@ -1,2 +1,3 @@
 # gitignore-java-gradle
-gitignore created for Java Gradle projects
+gitignore for Java Gradle projects.(IntelliJ IDEA)
+This can be used with pure java projects as well.
